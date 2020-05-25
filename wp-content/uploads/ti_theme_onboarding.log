@@ -1,0 +1,22 @@
+[24/May/2020:10:07:43] (ℹ️): WordPress Instance Info:
+[24/May/2020:10:07:43] (ℹ️): Home URL : http://localhost/wordpress
+[24/May/2020:10:07:43] (ℹ️): Site URL : http://localhost/wordpress
+[24/May/2020:10:07:43] (ℹ️): WordPress Version : 5.4.1
+[24/May/2020:10:07:43] (ℹ️): Onboarding Version : 1.0.0
+[24/May/2020:10:07:43] (ℹ️): Multisite : No
+[24/May/2020:10:07:43] (ℹ️): Server Info : Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.4
+[24/May/2020:10:07:43] (ℹ️): PHP Version : 7.4.4
+[24/May/2020:10:07:43] (ℹ️): HTTPS : No
+[24/May/2020:10:07:43] (ℹ️): PHP Max Execution Time : 120
+[24/May/2020:10:07:43] (ℹ️): PHP Max Input Vars : 1000
+[24/May/2020:10:07:43] (ℹ️): Max Upload Size : 41943040
+[24/May/2020:10:07:43] (ℹ️): Plugins:
+[24/May/2020:10:07:43] (ℹ️): [PLUGIN] Elementor : v2.9.8 (Elementor.com)
+[24/May/2020:10:07:43] (ℹ️): [PLUGIN] Jetpack by WordPress.com : v8.5 (Automattic)
+[24/May/2020:10:07:43] (ℹ️): [PLUGIN] Loco Translate : v2.3.4 (Tim Whitlock)
+[24/May/2020:10:07:43] (ℹ️): [PLUGIN] Post SMTP : v2.0.12 (Yehuda Hassine)
+[24/May/2020:10:07:43] (ℹ️): [PLUGIN] String Locator : v2.3.1 (Clorith)
+[24/May/2020:10:07:43] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.9.8 (Themeisle)
+[24/May/2020:10:07:43] (ℹ️): [PLUGIN] WooCommerce Services : v1.23.0 (Automattic)
+[24/May/2020:10:07:43] (ℹ️): [PLUGIN] WooCommerce : v4.1.1 (Automattic)
+[24/May/2020:10:07:43] (ℹ️): [PLUGIN] WP Mail SMTP : v2.0.1 (WPForms)
